@@ -4,4 +4,4 @@
 .bundle/
 vendor/
 Gemfile.lock
-*.pyc
+filter_plugins/oct.pyc
